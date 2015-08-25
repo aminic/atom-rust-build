@@ -1,9 +1,9 @@
 {
-  "name": "build",
+  "name": "rust-build",
   "main": "./lib/build",
   "version": "0.44.0",
-  "description": "Build your current project, directly from Atom",
-  "repository": "https://github.com/noseglid/atom-build",
+  "description": "rust build in from Atom",
+  "repository": "https://github.com/aminic/atom-rust-build",
   "license": "MIT",
   "engines": {
     "atom": ">=0.50.0"

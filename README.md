@@ -1,4 +1,4 @@
-# Atom Build package
+# Atom Rust Build package
 [![Build Travis](https://travis-ci.org/noseglid/atom-build.svg?branch=master)](https://travis-ci.org/noseglid/atom-build)
 [![Gitter chat](https://badges.gitter.im/noseglid/atom-build.svg)](https://gitter.im/noseglid/atom-build)
 
